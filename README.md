@@ -1,4 +1,4 @@
-<h1>🚀"<NWL Copa />"🚀</h1>
+<h1>🇧🇷 NWL Copa🇧</h1>
 <h2>🌐Projeto desenvolvido durante as aulas do bootcamp "Next Level Week" da Rokeatseat.</h2>
 
 <h3>Este projeto foi sem dúvidas um dos maiores desafios que já tive até hoje quando o assunto se trata de programação, o tempo curto, conteúdo extenso, correria do dia a dia e o cansaço tornaram tudo isso muito desafiador (porém muito divertido ao mesmo tempo). Como fiz no IgniteLab, vou deixar uma descrição bem detalhada sobre a minha experiência durante o evento neste README, desta forma consigo memorizar melhor todos esses conhecimentos e ainda passar para frente um "gostinho" do que foi participar de um bootcamp intensivo como este.</h3>
