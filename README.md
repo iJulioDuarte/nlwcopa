@@ -1,7 +1,7 @@
-<h1>🚀NWL Copa🚀</h1>
+<h1>🚀<NWL Copa />🚀</h1>
 <h2>🌐Projeto desenvolvido durante as aulas do bootcamp "Next Level Week" da Rokeatseat.</h2>
 
-<h3>Este projeto foi sem dúvidas um dos maiores desafios que já tive até hoje quando o assunto se trata de programação, o tempo curto, conteúdo extenso, correria do dia a dia e o cansaço tornaram tudo isso muito desafiador (porém muito divertido ao mesmo tempo). \n Como fiz no IgniteLab, vou deixar uma descrição bem detalhada sobre a minha experiência durante o evento neste README, desta forma consigo memorizar melhor todos esses conhecimentos e ainda passar para frente um "gostinho" do que foi participar de um bootcamp intensivo como este.</h3>
+<h3>Este projeto foi sem dúvidas um dos maiores desafios que já tive até hoje quando o assunto se trata de programação, o tempo curto, conteúdo extenso, correria do dia a dia e o cansaço tornaram tudo isso muito desafiador (porém muito divertido ao mesmo tempo). Como fiz no IgniteLab, vou deixar uma descrição bem detalhada sobre a minha experiência durante o evento neste README, desta forma consigo memorizar melhor todos esses conhecimentos e ainda passar para frente um "gostinho" do que foi participar de um bootcamp intensivo como este.</h3>
 
 <hr>
 <div><h3><img align="center" height="25" width="25" alt="Prisma" src="https://symbols.getvecta.com/stencil_261/35_prisma.3acb052337.svg"> Prisma<h3> <h5>O prisma é uma biblioteca que tem como objetivo mudar a forma de como mexemos com banco de dados, tornando tudo muito mais simples, interativo, robusto e agradável ao olhar. Durante as aulas, utilizamos somente node e Typescript para fazer o back-end, precisando do prisma para tornar isso possível, pois utilizamos somente Typescript para manipular nosso banco de dados como um todo, desde a criação até os selects.</h5></div>
